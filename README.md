@@ -7,7 +7,7 @@
 ## À propos de moi 
 
 - Développeuse Web Full-Stack et Data Analyst  
-  **Technologies :** HTML, CSS, JavaScript, PHP,Laravel, Python,Java 
+- **Technologies :** HTML, CSS, JavaScript, PHP,Laravel, Python,Java 
 - **Bases de données :** SQL, MySQL  
 - **Outils :** Git, GitHub, VS Code, Excel (Tableaux Croisés Dynamiques, Slicers), Power BI
 - **Langues :**  Français |  Anglais |  Arabe  
