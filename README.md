@@ -27,15 +27,26 @@
 
 # Mes outils
 
-<div align="center" style="background-color: #0D1116; border-radius: 10px; padding: 10px; border: 1px solid #30363D;">
-  <span style="color: #E34F26;">HTML5</span> &nbsp; 
-  <span style="color: #1572B6;">CSS3</span> &nbsp; 
-  <span style="color: #F7DF1E;">JavaScript</span> &nbsp; 
-  <span style="color: #61DAFB;">React</span> &nbsp; 
-  <span style="color: #FF2D20;">Laravel</span> &nbsp; 
-  <span style="color: #777BB4;">PHP</span> &nbsp; 
-  <span style="color: #38B2AC;">Tailwind</span> &nbsp; 
-  <span style="color: #3776AB;">Python</span>
+<div align="center" style="background-color: #0D1116; border-radius: 10px; padding: 15px; border: 1px solid #30363D; margin: 10px 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
+</div>
+
+<div align="center" style="background-color: #0D1116; border-radius: 10px; padding: 15px; border: 1px solid #30363D; margin: 10px 0;">
+  <span style="color: #E34F26; margin: 0 10px;">HTML5</span>
+  <span style="color: #1572B6; margin: 0 10px;">CSS3</span>
+  <span style="color: #F7DF1E; margin: 0 10px;">JavaScript</span>
+  <span style="color: #61DAFB; margin: 0 10px;">React</span>
+  <span style="color: #FF2D20; margin: 0 10px;">Laravel</span>
+  <span style="color: #777BB4; margin: 0 10px;">PHP</span>
+  <span style="color: #38B2AC; margin: 0 10px;">Tailwind</span>
+  <span style="color: #3776AB; margin: 0 10px;">Python</span>
 </div>
 
 ---
