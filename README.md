@@ -25,30 +25,37 @@
 | **🎁 Perfumora** | Site e-commerce interactif 3D pour parfums avec panier et simulation de paiement. | HTML, CSS, JavaScript |
 | **📈 Dashboards Excel** | Tableaux de bord dynamiques pour l’analyse des ventes et des profits. | Excel, TCD, Charts |
 
-# Mes outils
+## 🛠️ Languages & Tools
 
-<div align="center" style="background-color: #0D1116; border-radius: 10px; padding: 15px; border: 1px solid #30363D; margin: 10px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" style="vertical-align: middle; margin: 0 5px;" />
-</div>
+<p align="left">
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 
-<div align="center" style="background-color: #0D1116; border-radius: 10px; padding: 15px; border: 1px solid #30363D; margin: 10px 0;">
-  <span style="color: #E34F26; margin: 0 10px;">HTML5</span>
-  <span style="color: #1572B6; margin: 0 10px;">CSS3</span>
-  <span style="color: #F7DF1E; margin: 0 10px;">JavaScript</span>
-  <span style="color: #61DAFB; margin: 0 10px;">React</span>
-  <span style="color: #FF2D20; margin: 0 10px;">Laravel</span>
-  <span style="color: #777BB4; margin: 0 10px;">PHP</span>
-  <span style="color: #38B2AC; margin: 0 10px;">Tailwind</span>
-  <span style="color: #3776AB; margin: 0 10px;">Python</span>
-</div>
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 
----
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 
-## Merci pour votre visite !
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+  <!-- PHP -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
+  <!-- Bootstrap -->
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
