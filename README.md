@@ -26,7 +26,9 @@
 | **📈 Dashboards Excel** | Tableaux de bord dynamiques pour l’analyse des ventes et des profits. | Excel, TCD, Charts |
  # Mes outils
 
-## HTML5
+# Mes outils
+
+HTML5  
 CSS3  
 JAVASCRIPT  
 JAVA  
@@ -37,4 +39,4 @@ PYTHON
 
 ---
 
-### Merci pour votre visite !
+## Merci pour votre visite !
