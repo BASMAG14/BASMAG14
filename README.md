@@ -28,15 +28,18 @@
 
 # Mes outils
 
-HTML5  
-CSS3  
-JAVASCRIPT  
-JAVA  
-LARAVEL  
-PHP  
-BOOTSTRAP  
-PYTHON  
+## HTML5
+CSS3
+
+## JAVASCRIPT
+REACT
+
+## LARAVEL
+PHP
+
+## BOOTSTRAP
+PYTHON
 
 ---
 
-## Merci pour votre visite !
+### Merci pour votre visite !
