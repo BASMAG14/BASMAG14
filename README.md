@@ -27,6 +27,17 @@
 
 # Mes outils
 
-HTML5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"> CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"> JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"> Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"> Laravel <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="20" height="20"> PHP <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20"> Bootstrap <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" height="20"> Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20">
+<div align="center" style="background-color: #0D1116; border-radius: 10px; padding: 10px; border: 1px solid #30363D;">
+  <span style="color: #E34F26;">HTML5</span> &nbsp; 
+  <span style="color: #1572B6;">CSS3</span> &nbsp; 
+  <span style="color: #F7DF1E;">JavaScript</span> &nbsp; 
+  <span style="color: #61DAFB;">React</span> &nbsp; 
+  <span style="color: #FF2D20;">Laravel</span> &nbsp; 
+  <span style="color: #777BB4;">PHP</span> &nbsp; 
+  <span style="color: #38B2AC;">Tailwind</span> &nbsp; 
+  <span style="color: #3776AB;">Python</span>
+</div>
 
-### Merci pour votre visite !
+---
+
+## Merci pour votre visite !
