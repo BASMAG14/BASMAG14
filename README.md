@@ -1,6 +1,6 @@
 # Bonjour, je suis Basma ! 👋
 
-- Développeuse Full-Stack | Data Analyst | Passionnée par la création de solutions digitales
+- Développeuse PHP | Analyste de Données | Étudiante en Science des Données
 
 ---
 # À propos de moi
