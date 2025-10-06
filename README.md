@@ -6,8 +6,8 @@
 # À propos de moi
   
 - **Programmation :** Python, C, R, PHP, Java , C++ 
-- **Bases de données :** SQL, MySQL
-- **Développement Web :** PHP, Laravel, HTML, CSS, JavaScript, bootstrap
+- **Bases de données :** NOSQL, MySQL
+- **Développement Web :** PHP, Laravel, HTML, CSS, JavaScript, Bootstrap
 - **Outils :** Git, GitHub/GitLab, VS Code, Excel (Tableaux Croisés Dynamiques, Slicers), Power BI  
 - **Langues :** Français | Anglais | Arabe  
 - Ouverte aux opportunités en développement web et analyse de données.  
