@@ -22,6 +22,7 @@
 | Projet | Description | Technologies |
 | :--- | :--- | :--- |
 | **⚖️ Gestion des Sinistres** | Application web de gestion et de suivi des sinistres. | HTML, CSS, JS, PHP, Bootstrap |
+| **🎓 Gestion des Étudiants** | Application desktop de gestion académique avec interface Qt et base MySQL. | C++, Qt, MySQL |
 | **🏨 Gestion des Réservations d'Hôtel** | Application de réservation et de gestion des chambres et des clients pour un hôtel. | PHP, MySQL, JavaScript |
 | **🎁 Perfumora** | Site e-commerce interactif 3D pour parfums avec panier et simulation de paiement. | HTML, CSS, JavaScript |
 | **📈 Dashboards Excel** | Tableaux de bord dynamiques pour l’analyse des ventes et des profits. | Excel, TCD, Charts |
