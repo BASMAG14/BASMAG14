@@ -3,6 +3,7 @@
 - Développeuse PHP | Analyste de Données | Étudiante en Science des Données
 
 ---
+
 # À propos de moi
   
 - **Programmation :** Python, C, R, PHP, Java , C++ 
@@ -13,7 +14,9 @@
 - **Langues :** Français | Anglais | Arabe  
 - Ouverte aux opportunités en développement web et analyse de données.  
 - J’aime transformer des idées en applications concrètes et résoudre des problèmes complexes.  
-- **Contact :** [basmagouam@gmail.com](mailto:basmagouam@gmail.com) | [LinkedIn – Basma Gouam](https://www.linkedin.com/in/basma-gouam-435167298/)  
+- **Contact :** [basmagouam@gmail.com](mailto:basmagouam@gmail.com) | [LinkedIn – Basma Gouam](https://www.linkedin.com/in/basma-gouam-435167298/)
+- **CV :**
+[📥 CV_Basma_Gouam.pdf](CV_Basma_Gouam.pdf)  [📄 Version Word](CV_Basma_Gouam.docx)
 
 ---
 
