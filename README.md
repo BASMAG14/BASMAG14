@@ -7,6 +7,7 @@
   
 - **Programmation :** Python, C, R, PHP, Java , C++ 
 - **Bases de données :** NOSQL, MySQL
+- **Analyse et visualisation des données :** Numpy, Pandas, Analyse statistique, Visualisation de données.
 - **Développement Web :** PHP, Laravel, HTML, CSS, JavaScript, Bootstrap
 - **Outils :** Git, GitHub/GitLab, VS Code, Excel (Tableaux Croisés Dynamiques, Slicers), Power BI  
 - **Langues :** Français | Anglais | Arabe  
