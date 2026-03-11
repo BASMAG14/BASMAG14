@@ -24,6 +24,7 @@
 
 | Projet | Description | Technologies |
 | :--- | :--- | :--- |
+| **🩺💙 Projet Machine Learning : Prédiction du Diabète** |  la prédiction du diabète à partir de données médicales. |  Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn,Plotly, Joblib, Streamlit |
 | **⚖️ Gestion des Sinistres** | Application web de gestion et de suivi des sinistres. | HTML, CSS, JS, PHP, Bootstrap |
 | **🎓 Gestion des Étudiants** | Application desktop de gestion académique avec interface Qt et base MySQL. | C++, Qt, MySQL |
 | **🏨 Gestion des Réservations d'Hôtel** | Application de réservation et de gestion des chambres et des clients pour un hôtel. | PHP, MySQL, JavaScript |
