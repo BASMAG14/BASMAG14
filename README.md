@@ -1,6 +1,6 @@
 # Bonjour, je suis Basma ! 👋
 
-- Développeuse PHP | Analyste de Données | Étudiante en Science des Données
+- Étudiante en Science des Données | Développeuse PHP | Analyste de Données | 
 
 ---
 
