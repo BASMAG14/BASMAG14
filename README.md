@@ -24,6 +24,7 @@
 
 | Projet | Description | Technologies |
 | :--- | :--- | :--- |
+| **Planification des employés basée sur l’optimisation à l’aide de la programmation par contraintes** | générer un planning de travail faisable et optimisé pour 500 employés, répartis sur 21 lignes de production et 6 shifts, tout en respectant plusieurs contraintes opérationnelles | Java, Choco Solver |
 | **🩺💙 Projet Machine Learning : Prédiction du Diabète** |  la prédiction du diabète à partir de données médicales. |  Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn,Plotly, Joblib, Streamlit |
 | **⚖️ Gestion des Sinistres** | Application web de gestion et de suivi des sinistres. | HTML, CSS, JS, PHP, Bootstrap |
 | **🎓 Gestion des Étudiants** | Application desktop de gestion académique avec interface Qt et base MySQL. | C++, Qt, MySQL |
